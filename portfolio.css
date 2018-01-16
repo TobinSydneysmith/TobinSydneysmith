@@ -326,7 +326,22 @@ h1{
     font-family: 'Lato', sans-serif;
 }
 
-#Port{
+#Port1{
+  color: #edeeef;
+  text-align: center;
+}
+
+#Port2{
+  color: #edeeef;
+  text-align: center;
+}
+
+#Port3{
+  color: #edeeef;
+  text-align: center;
+}
+
+#Port4{
   color: #edeeef;
   text-align: center;
 }
